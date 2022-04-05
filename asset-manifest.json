@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/salweb/static/css/main.ce029ce8.css",
+    "main.js": "/salweb/static/js/main.5b85efe0.js",
+    "static/media/contact us.png": "/salweb/static/media/contact us.5867d9cf20b9b35c9d7c.png",
+    "static/media/working hours.png": "/salweb/static/media/working hours.2800d56f4a2cd6143c67.png",
+    "static/media/about.png": "/salweb/static/media/about.8e2c16baff430f79da88.png",
+    "static/media/barber.png": "/salweb/static/media/barber.da9ec1c1d867c22647c2.png",
+    "static/media/testimonial.png": "/salweb/static/media/testimonial.d166360134a728e04e4d.png",
+    "static/media/service.png": "/salweb/static/media/service.652ca3d47bb91597ccc6.png",
+    "static/media/price.png": "/salweb/static/media/price.483712629f6503dd83ae.png",
+    "static/media/pp3.jpg": "/salweb/static/media/pp3.b8d950e87bdad619369e.jpg",
+    "static/media/pp4.jpg": "/salweb/static/media/pp4.1905cea1c6c08014f652.jpg",
+    "static/media/pp.jpg": "/salweb/static/media/pp.c8ec9add3658035fa324.jpg",
+    "index.html": "/salweb/index.html",
+    "main.ce029ce8.css.map": "/salweb/static/css/main.ce029ce8.css.map",
+    "main.5b85efe0.js.map": "/salweb/static/js/main.5b85efe0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce029ce8.css",
+    "static/js/main.5b85efe0.js"
+  ]
+}
